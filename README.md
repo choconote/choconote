@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;                    ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=tokyonight)
 
 
 # <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
