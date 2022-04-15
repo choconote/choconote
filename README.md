@@ -1,4 +1,4 @@
-###<p align="center"> Hi there 👋</p>
+<p align="center"> Hi there 👋</p>
 <hr>
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center>![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)</p>
+<p align="center">![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)</p>
 <h3 align="center><b>🛠 Tech Stack 🛠</b></h3>
 <hr>
 <p>
