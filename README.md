@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<pre>
-                        ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)
-</pre>
+
+ &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                      ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)
+
 
 
 
