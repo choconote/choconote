@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 
 <!--
 **choconote/choconote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 
 ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)
 <h3><b>🛠 front Stack 🛠</b></h3>
+<hr>
 </br>
 <p>
 <br>
