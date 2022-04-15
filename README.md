@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)
 <h3><b>🛠 front Stack 🛠</b></h3>
 <hr>
-</br>
 <p>
-<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
