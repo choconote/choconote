@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=default)
+</div>
+
 
 
 # <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
