@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=tokyonight)
+![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=tokyonight) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=default) -->
+
 
 
 
