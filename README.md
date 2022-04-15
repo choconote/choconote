@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style=text-align:center;>
 ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)
-</div>
+
 
 <h3 align="center><b>🛠 Tech Stack 🛠</b></h3>
 <hr>
