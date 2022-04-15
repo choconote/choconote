@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
- # <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+#<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <hr>
 <br>
 <p align="center">
