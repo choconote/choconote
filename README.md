@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ![choconote's github stats](https://github-readme-stats.vercel.app/api?username=choconote&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choconote&layout=compact&theme=default)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choconote&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choconote&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
